@@ -1,10 +1,10 @@
 # Stair Climbing Device
 
-This repository contains the design and implementation details for a Remote-Controlled Stair-Climbing Robot. The robot employs a Rocker-Bogie Suspension Mechanism inspired by NASA's Mars Rovers, enabling it to climb stairs and traverse rugged terrains effectively. It is controlled via Bluetooth and built using economical and readily available components.
+This repository contains the design and implementation details for a Remote-Controlled Stair-Climbing Device. The device employs a Rocker-Bogie Suspension Mechanism inspired by NASA's Mars Rovers, enabling it to climb stairs and traverse rugged terrains effectively. It is controlled via Bluetooth and built using economical and readily available components.
 
 ## Overview
--Stair-climbing capability using the Rocker-Bogie mechanism.
--Remote control via Bluetooth.
+- Stair climbing capability using the Rocker-Bogie mechanism.
+- Remote control via Bluetooth.
 
 
 The **Rocker Bogie Suspension Vehicle** is a type of rover widely used in planetary exploration, such as on NASA’s Mars rovers. The vehicle’s suspension system allows it to traverse rough terrain, and it is commonly used in robotics competitions and learning projects.
